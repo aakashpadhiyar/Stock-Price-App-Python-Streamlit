@@ -1,6 +1,6 @@
 # Stock-Price-App-Python-Streamlit
 
-
+#8140171224
 <p align="center">
 <a href="https://discord.gg/QR7uvNaptF">
     <img src="https://img.shields.io/discord/699867525634195528?logo=discord"
